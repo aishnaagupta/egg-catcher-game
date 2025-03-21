@@ -4,7 +4,9 @@ GAME OBJECTIVES:
 <br>
 -CATCH THE EGGS
 Your primary goal is to catch as many eggs as possible before they hit the ground.
+<br>
 -BEAT YOUR OPPONENT!
+<br>
 Win by catching more eggs in your three lives than your opponent
 -SCORE POINTS
 For each catch, a player gets a 10 point increment.
