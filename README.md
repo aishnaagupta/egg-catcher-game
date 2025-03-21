@@ -11,9 +11,14 @@ GAME OBJECTIVES:
 GAME PLAY:
 <br>
 -To start, players must move the baskets to catch eggs in them
+<br>
 -The basket must be moved using the arrow and S,D buttons.
+<br>
 -Each player gets three lives in each gameplay
+<br>
 -Catching an egg: 10+ points ; Missing an egg: Lose a life
+<br>
 -Multiplayer mode: Both players play at the same time with their controls
+<br>
 -The speed keeps increasing and the one who keeps up, wins!
 
