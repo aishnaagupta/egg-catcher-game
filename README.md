@@ -2,11 +2,8 @@ Egg Catcher is a game that challenges your hand-eye coordination and quick refle
 
 GAME OBJECTIVES:
 <br>
--CATCH THE EGGS
-Your primary goal is to catch as many eggs as possible before they hit the ground.
+-catch the eggs: Your primary goal is to catch as many eggs as possible before they hit the ground.
 <br>
--BEAT YOUR OPPONENT!
+-beat your opponent: Win by catching more eggs in your three lives than your opponent
 <br>
-Win by catching more eggs in your three lives than your opponent
--SCORE POINTS
-For each catch, a player gets a 10 point increment.
+-score points: For each catch, a player gets a 10 point increment.
